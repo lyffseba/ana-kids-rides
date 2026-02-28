@@ -12,10 +12,12 @@ Project for managing kids coin-operated rides across various malls in Colombia.
 ### 2. Mercurio Centro Comercial
 - **Status:** Pending contract renewal / modifications
 - **Notes:** Contract is being unified for two areas, with IPC increment adjustments and a one-month rent policy. Received notice regarding "entrega del área común por solicitud de los locatarios", currently under negotiation.
+- **Financials:** Monthly electronic invoices are being issued for $595,000 COP via The Factory HKA.
 
 ### 3. Milenio Plaza CC
 - **Status:** Active
 - **Notes:** Received communications for November/December 2025 activities and end-of-year season preparations.
+- **Events:** Mandatory training "PREPARÉMONOS PARA LA TEMPORADA DE FIN DE AÑO" scheduled for Nov 07, 2025, 8:00 AM - 10:00 AM at Sala #2 Cinemas Royal Films.
 
 - **Status:** Active
 - **Contract Duration:** Jan 1, 2026 - Dec 31, 2026
